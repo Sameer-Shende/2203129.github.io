@@ -34,7 +34,7 @@ Email: shende.rajesh.22031@iitgoa.ac.in
 
 ---
 
-**Course @IITGoa"
+**Course @IITGoa**
 
 - CS102
 - MA102
@@ -46,7 +46,7 @@ Email: shende.rajesh.22031@iitgoa.ac.in
 
 ---
 
-**Hobbies & Interest
+**Hobbies & Interest**
 
 - Swimming
 - Personal Finance
